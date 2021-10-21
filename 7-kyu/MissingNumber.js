@@ -9,5 +9,7 @@ function missingNo(nums) {
             for(i=0;i<nums.length;i++)
               if(nums[i]!==i){
                 return i
+              }else if(!nums.includes(100)){
+                return 100
               }
    }
