@@ -1,3 +1,6 @@
+//Remove everything that is not a letter from a given string 
+
+
 //Solution
 function removeChars(s) {
     let array=s.split("")
