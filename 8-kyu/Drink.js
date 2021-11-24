@@ -1,3 +1,6 @@
+//What should they drink?
+
+
 //Solution
 function peopleWithAgeDrink(old) {
     if(old<14){
