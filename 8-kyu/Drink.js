@@ -10,5 +10,5 @@ function peopleWithAgeDrink(old) {
     }else if(old<21){
       return `drink beer`
     }else
-      return `drink whisky`
+      return `drink whisk`
    };
