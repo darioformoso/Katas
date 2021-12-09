@@ -1,4 +1,4 @@
-
+//Write a program to determine if the two given numbers are coprime. A pair of numbers are coprime if their greatest shared factor is 1.
 
 
 
