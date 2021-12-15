@@ -1,4 +1,8 @@
-//SOlution 
+//Calculate bmi
+
+
+
+//Solution 
 function bmi(weight, height) {
     let bmi=weight/(height*height);
     
