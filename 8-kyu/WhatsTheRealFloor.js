@@ -1,3 +1,7 @@
+//Write a function that given a floor in the american system returns the floor in the european system.
+
+
+
 //Solution
 function getRealFloor(n) {
     if(n<=0){
