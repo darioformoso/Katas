@@ -1,3 +1,8 @@
+//When provided with a number between 0-9, return it in words. using a switch statement 
+
+
+
+
 //Solution
 function switchItUp(number){
     switch (number){
