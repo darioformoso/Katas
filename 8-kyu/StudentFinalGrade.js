@@ -1,3 +1,6 @@
+//Create a function finalGrade, which calculates the final grade of a student depending on two parameters: a grade for the exam and a number of completed projects.
+
+
 //Solution
 function finalGrade (exam, projects) {
     if(exam>90|| projects>10){
