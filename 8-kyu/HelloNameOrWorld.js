@@ -6,6 +6,8 @@
 
 
 
+
+
 //Solution
 function hello(name) {
     if (typeof name !== 'string'){
