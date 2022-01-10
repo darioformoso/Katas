@@ -1,3 +1,6 @@
+//Solve the horror of unstandardized keypads by providing a function that converts computer input to a number as if it was typed on a phone.
+
+
 //solution
 function computerToPhone(numbers){
     let newArray=[];
