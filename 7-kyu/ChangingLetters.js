@@ -1,3 +1,6 @@
+//When provided with a String, capitalize all vowels
+
+
 //Solution
 function swap (string) {
     string=string.split("")
