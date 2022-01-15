@@ -1,3 +1,5 @@
+//our task is to remove all consecutive duplicate words from a string, leaving only first words entries
+
 //Solution
 function removeConsecutiveDuplicates(s){
     s=s.split(" ")
