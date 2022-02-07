@@ -1,3 +1,5 @@
+//Rock Paper Scissors 
+
 //Solution
 const rps = (p1, p2) => {
     if(p1==="rock"&& p2==="scissors"){
